@@ -1,6 +1,6 @@
 # nexmark
 
-performance test of nexmark for flink,proton and ksqldb
+performance test of nexmark for flink and proton
 
 
 ## quick start
